@@ -33,7 +33,7 @@ Copy code
 ### Start the development server:
 
 Copy code
-`npm run dev` or `yarn d`
+`npm run dev` or `yarn dev`
 
 Open your browser and navigate to `http://localhost:5173` to see the starter template in action.
 
