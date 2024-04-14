@@ -28,16 +28,12 @@ Copy code
 ### Install dependencies using npm or yarn:
 
 Copy code
-`npm install`
-# or
-`yarn install`
+`npm install` or `yarn install`
 
 ### Start the development server:
 
 Copy code
-`npm run dev`
-# or
-`yarn dev`
+`npm run dev` or `yarn d`
 
 Open your browser and navigate to `http://localhost:5173` to see the starter template in action.
 
