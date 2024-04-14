@@ -45,7 +45,7 @@ Open your browser and navigate to `http://localhost:5173` to see the starter tem
 ## Font
 The font used in this starter template is Poppins from [Google Fonts](https://fonts.google.com/). Feel free to replace it with any other font of your choice.
 
-License
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/LICENSE) file for details.
 
 
