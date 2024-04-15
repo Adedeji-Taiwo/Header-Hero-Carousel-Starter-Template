@@ -1,15 +1,27 @@
 # React Header-Hero-Carousel Starter Template
 This template provides a solid foundation for building dynamic and responsive carousel component seamlessly integrated within the header and hero sections of a webpage, using the lightning-fast React bundler, Vite, and the utility-first CSS framework, Tailwind CSS.
 
+- Live link👇:
+https://header-hero-carousel.vercel.app/
+
+If you want to learn how to create this snip please follow this tutorial👇:
+
+
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
+
+
+
 ## Features
-- React Vite: Utilize the power of Vite, a blazing-fast development server and bundler for React applications, ensuring quick startup and rapid development.
-- Tailwind CSS: Take advantage of Tailwind CSS's utility-first approach to effortlessly style your components and create a clean and consistent user interface.
+-  [React Vite](https://vitejs.dev/guide/): Utilize the power of Vite, a blazing-fast development server and bundler for React applications, ensuring quick startup and rapid development.
+-  [Tailwind CSS](https://tailwindcss.com/docs/guides/vite/): Take advantage of Tailwind CSS's utility-first approach to effortlessly style your components and create a clean and consistent user interface.
 
 ## Libraries Used:
 | Feature  | Package | Benefits |
 | ------------- | ------------- | ------------- |
-| React Icons |  `react-icons` | Access a vast library of popular icons for free and easily integrate them into your React applications |
-| SwiperJS | `swiperjs`  | Simplify the creation of functional and reusable carousel components with stunning effects and functionality  |
+| [React Icons](https://react-icons.github.io/react-icons/) |  `react-icons` | Access a vast library of popular icons for free and easily integrate them into your React applications |
+|  [SwiperJS](https://swiperjs.com/react) | `swiperjs`  | Simplify the creation of functional and reusable carousel components with stunning effects and functionality  |
 
 
 ## Getting Started
