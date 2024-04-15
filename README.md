@@ -4,12 +4,12 @@ This template provides a solid foundation for building dynamic and responsive ca
 - Live link👇:
 https://header-hero-carousel.vercel.app/
 
-If you want to learn how to create this snip please follow this tutorial👇:
+- If you want to learn how to create this snip please follow this tutorial👇:
 
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/src/assets/shots/largeScreen.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/src/assets/shots/tabScreen.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/src/assets/shots/mobileScreen.png)
 
 
 
@@ -21,7 +21,7 @@ If you want to learn how to create this snip please follow this tutorial👇:
 | Feature  | Package | Benefits |
 | ------------- | ------------- | ------------- |
 | [React Icons](https://react-icons.github.io/react-icons/) |  `react-icons` | Access a vast library of popular icons for free and easily integrate them into your React applications |
-|  [SwiperJS](https://swiperjs.com/react) | `swiperjs`  | Simplify the creation of functional and reusable carousel components with stunning effects and functionality  |
+| [SwiperJS](https://swiperjs.com/react) | `swiperjs`  | Simplify the creation of functional and reusable carousel components with stunning effects and functionality  |
 
 
 ## Getting Started
