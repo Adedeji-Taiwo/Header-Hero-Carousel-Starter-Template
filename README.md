@@ -5,7 +5,7 @@ This template provides a solid foundation for building dynamic and responsive ca
 https://header-hero-carousel.vercel.app/
 
 - If you want to learn how to create this snip please follow this tutorial👇:
-
+https://youtu.be/hxIOtRsyPXo
 
 ![Screenshot](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/src/assets/shots/largeScreen.png)
 ![Screenshot](https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template/blob/main/src/assets/shots/tabScreen.png)
