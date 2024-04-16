@@ -30,12 +30,12 @@ To get started with this starter template, follow these steps:
 ### Clone this repository to your local machine:
 
 Copy code
-`git clone https://github.com/your-username/header-hero-carousel.git`
+`git clone https://github.com/Adedeji-Taiwo/Header-Hero-Carousel-Starter-Template.gitt`
 
 ### Navigate to the project directory:
 
 Copy code
-`cd header-hero-carousel`
+`cd Header-Hero-Carousel-Starter-Template`
 
 ### Install dependencies using npm or yarn:
 
